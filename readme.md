@@ -1,6 +1,6 @@
-##Curriculum Vitae
+## Curriculum Vitae
 
-Current as of October 2015
+Current as of September 2017
 
 Adapted from the https://github.com/TheAlphaNerd/curriculum_vitae which in turn was adapted from the moderncv default template
 
